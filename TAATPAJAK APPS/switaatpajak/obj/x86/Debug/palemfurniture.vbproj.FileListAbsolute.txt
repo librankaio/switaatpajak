@@ -1,0 +1,474 @@
+C:\Users\IVHAN\Desktop\Palem\palemfurniture\bin\Debug\bajasukses.exe.config
+C:\Users\IVHAN\Desktop\Palem\palemfurniture\obj\x86\Debug\bajasukses.exe
+C:\Users\IVHAN\Desktop\Palem\palemfurniture\obj\x86\Debug\bajasukses.xml
+C:\Users\IVHAN\Desktop\Palem\palemfurniture\obj\x86\Debug\bajasukses.pdb
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\bin\Debug\bajasukses.exe.config
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.exe
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.xml
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.pdb
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.aboutus.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.changepass.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.sysconfig.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.usr.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.usrpriv.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.assets.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.menuutama.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.Resources.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.login.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.search.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.rsupp.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.rpurpay.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.rsalpay.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.rpurdetail.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.raccpayable.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.raccreceivable.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.rcust.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.rreturaccpayable.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.rreturpur.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.rreturpurdetail.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.rreturaccreceivable.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.rretursales.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.rretursalesdetail.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.ritmsupp.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.rwrhstock.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.romsetsal.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.rsales.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.rsalesdetail.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.rprofitlossacc.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.rprt.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.rpur.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.rret.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.tpay.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.tpur.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.tsales.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.uploaddata.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.vitmwrh.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.vtransduedt.resources
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.vbproj.GenerateResource.Cache
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\bin\Debug\bajasukses.exe
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\bin\Debug\bajasukses.pdb
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\bin\Debug\bajasukses.xml
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\bin\Debug\clopalem.dll
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\bin\Debug\clspalem.dll
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\bin\Debug\clopalem.pdb
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\bin\Debug\clopalem.xml
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\bin\Debug\clspalem.pdb
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\bin\Debug\clspalem.xml
+C:\Users\IVHAN\Desktop\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.vbprojResolveAssemblyReference.cache
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\bin\Debug\bajasukses.exe.config
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.exe
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.xml
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.pdb
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\bin\Debug\bajasukses.exe
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\bin\Debug\bajasukses.pdb
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\bin\Debug\bajasukses.xml
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\bin\Debug\clopalem.dll
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\bin\Debug\clspalem.dll
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\bin\Debug\clopalem.pdb
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\bin\Debug\clopalem.xml
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\bin\Debug\clspalem.pdb
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\bin\Debug\clspalem.xml
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.vbprojResolveAssemblyReference.cache
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.aboutus.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.changepass.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.sysconfig.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.usr.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.usrpriv.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.assets.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.menuutama.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.Resources.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.login.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.search.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.rsupp.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.rpurpay.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.rsalpay.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.rpurdetail.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.raccpayable.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.raccreceivable.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.rcust.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.rreturaccpayable.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.rreturpur.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.rreturpurdetail.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.rreturaccreceivable.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.rretursales.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.rretursalesdetail.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.ritmsupp.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.rwrhstock.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.romsetsal.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.rsales.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.rsalesdetail.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.rprofitlossacc.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.rprt.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.rpur.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.rret.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.tpay.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.tpur.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.tsales.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.uploaddata.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.vitmwrh.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\bajasukses.vtransduedt.resources
+C:\Dropbox\Swifect Share\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.vbproj.GenerateResource.Cache
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.aboutus.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.changepass.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.sysconfig.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.usr.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.usrpriv.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.menuutama.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.Resources.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.login.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.search.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.rprt.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.tpay.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.tsales.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.uploaddata.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.vbproj.GenerateResource.Cache
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\palemfurniture.exe.config
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\palemfurniture.exe
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\palemfurniture.pdb
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\palemfurniture.xml
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\clopalem.dll
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\clspalem.dll
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\CrystalDecisions.Shared.dll
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\FlashControlV71.dll
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\mysql.data.dll
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\ShockwaveFlashObjects.dll
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\stdole.dll
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\clopalem.pdb
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\clopalem.xml
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\clspalem.pdb
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\clspalem.xml
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.exe
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.xml
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.pdb
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.mbranch.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.macctp.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.mexptp.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.mitmtp.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.mcustgrp.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.mpaytp.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.msupp.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.mcust.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.msales.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.mitm.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.tsalpay.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.topay.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.tadj.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.rptstockdetail.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.rptstockoverview.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.rptspermbp.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.tpo.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.rsalesperperson.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.routletperform.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.rsalperproduct.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.rtopcust.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.rbestsell.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.rsaldetail.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.rdailysales.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.cprinterconfig.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.choosebranch.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.rexpensedetail.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.tsalpay2.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.rreceivable.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.tret.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.rcatchart.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.rpurchase.resources
+D:\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\bin\Debug\palemfurniture.exe.config
+D:\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.exe
+D:\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.xml
+D:\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.pdb
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\bin\Debug\palemfurniture.exe.config
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.exe
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.xml
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.pdb
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\bin\Debug\palemfurniture.exe
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\bin\Debug\palemfurniture.pdb
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\bin\Debug\palemfurniture.xml
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\bin\Debug\clopalem.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\bin\Debug\clspalem.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\bin\Debug\CrystalDecisions.Shared.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\bin\Debug\FlashControlV71.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\bin\Debug\mysql.data.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\bin\Debug\ShockwaveFlashObjects.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\bin\Debug\stdole.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\bin\Debug\clopalem.pdb
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\bin\Debug\clopalem.xml
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\bin\Debug\clspalem.pdb
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\bin\Debug\clspalem.xml
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.aboutus.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.changepass.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.cprinterconfig.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.sysconfig.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.usr.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.usrpriv.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.macctp.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.msales.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.mitm.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.mexptp.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.mitmtp.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.mcustgrp.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.mpaytp.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.msupp.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.mcust.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.mbranch.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.menuutama.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.Resources.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.login.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.choosebranch.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.search.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.rcatchart.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.rdailysales.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.rexpensedetail.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.rsalesperperson.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.routletperform.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.rpurchase.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.rsalperproduct.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.rreceivable.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.rtopcust.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.rbestsell.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.rsaldetail.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.rprt.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.tpo.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.tret.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.tsalpay2.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.tsalpay.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.tpay.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.topay.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.tadj.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.tsales.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.uploaddata.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.rptspermbp.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.rptstockdetail.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.rptstockoverview.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.vbproj.GenerateResource.Cache
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.ttgh.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.trec.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.tpays.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.rptstockperlot.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps - NEW\palemfurniture\obj\x86\Debug\palemfurniture.rpayable.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\palemfurniture.exe.config
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\palemfurniture.exe
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\palemfurniture.pdb
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\palemfurniture.xml
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\clopalem.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\clspalem.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\CrystalDecisions.Shared.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\FlashControlV71.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\mysql.data.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\ShockwaveFlashObjects.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\stdole.dll
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\clopalem.pdb
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\clopalem.xml
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\clspalem.pdb
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\bin\Debug\clspalem.xml
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.aboutus.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.changepass.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.cprinterconfig.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.sysconfig.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.usr.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.usrpriv.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.macctp.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.msales.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.mitm.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.mexptp.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.mitmtp.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.mcustgrp.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.mpaytp.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.msupp.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.mcust.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.mbranch.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.menuutama.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.Resources.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.login.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.choosebranch.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.search.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.rcatchart.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.rdailysales.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.rexpensedetail.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.rsalesaging.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.rpurchaseaging.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.rptstockperlot.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.rpayable.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.rsalesperperson.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.routletperform.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.rpurchase.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.rsalperproduct.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.rreceivable.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.rtopcust.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.rbestsell.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.rsaldetail.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.rrekeningdetail.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.tpopjk2.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.tpopjk.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.tsalpjk.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.rprt.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.slds.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.slda.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.tpays.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.tretp.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.ttgh.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.trec.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.tpo.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.tret.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.tsalpay2.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.tsalpay.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.tpay.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.topay.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.tadj.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.tsales.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.uploaddata.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.rptspermbp.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.rptstockdetail.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.rptstockoverview.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.vbproj.GenerateResource.Cache
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.exe
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.xml
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.pdb
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.rrpc.resources
+C:\Work\ON-GOING PROJECTS\Palem Furniture Apps\palemfurniture\obj\x86\Debug\palemfurniture.rpurdetail.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\bin\Debug\palemfurniture.exe.config
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\bin\Debug\palemfurniture.exe
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\bin\Debug\palemfurniture.pdb
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\bin\Debug\palemfurniture.xml
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\bin\Debug\clopalem.dll
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\bin\Debug\clspalem.dll
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\bin\Debug\CrystalDecisions.Shared.dll
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\bin\Debug\FlashControlV71.dll
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\bin\Debug\mysql.data.dll
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\bin\Debug\ShockwaveFlashObjects.dll
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\bin\Debug\stdole.dll
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\bin\Debug\clopalem.pdb
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\bin\Debug\clopalem.xml
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\bin\Debug\clspalem.pdb
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\bin\Debug\clspalem.xml
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.aboutus.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.changepass.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.cprinterconfig.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.sysconfig.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.usr.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.usrpriv.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.macctp.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.msales.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.mitm.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.mexptp.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.mitmtp.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.mcustgrp.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.mpaytp.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.msupp.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.mcust.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.mbranch.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.menuutama.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.Resources.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.login.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.choosebranch.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.search.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.rcatchart.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.rdailysales.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.rexpensedetail.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.rrps.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.rrpc.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.rpurdetail.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.rsalesaging.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.rpurchaseaging.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.rptstockperlot.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.rpayable.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.rsalesperperson.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.routletperform.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.rpurchase.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.rsalperproduct.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.rreceivable.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.rtopcust.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.rbestsell.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.rsaldetail.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.rrekeningdetail.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.tpopjk2.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.tpopjk.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.tsalpjk.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.rprt.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.slds.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.slda.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.tpays.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.tretp.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.ttgh.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.trec.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.tpo.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.tret.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.tsalpay2.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.tsalpay.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.tpay.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.topay.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.tadj.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.tsales.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.uploaddata.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.rptspermbp.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.rptstockdetail.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.rptstockoverview.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.vbproj.GenerateResource.Cache
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.exe
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.xml
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.pdb
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.tretppjk.resources
+C:\Work\ON-GOING PROJECTS\PALEM FURNITURE\palemfurniture\obj\x86\Debug\palemfurniture.tretpjk.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\bin\Debug\palemfurniture.exe.config
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.exe
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.xml
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.pdb

@@ -1,0 +1,1387 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C2EE676F-641D-4FF7-9A56-E5C84AA2E1DF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>taatpajak.My.MyApplication</StartupObject>
+    <RootNamespace>taatpajak</RootNamespace>
+    <AssemblyName>taatpajak</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>taatpajak.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>taatpajak.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>img\logoswisy.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="clopalem, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\clopalem.dll</HintPath>
+    </Reference>
+    <Reference Include="clspalem, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\clswi\clspalem.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Design, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.VSDesigner, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Web, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v18.1, Version=18.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v18.1, Version=18.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v18.1, Version=18.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v18.1, Version=18.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="EpsonStatusAPI, Version=4.0.11.0, Culture=neutral, PublicKeyToken=46bb02e1480038cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Windows\assembly\GAC_MSIL\EpsonStatusAPI\4.0.11.0__46bb02e1480038cb\EpsonStatusAPI.dll</HintPath>
+    </Reference>
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Guna.UI">
+      <HintPath>..\..\..\..\gunaui\_Getintopc.com_Guna_UI_Framework_Ultimate_v2.0.0.1\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna.UI-Framework-Lib-master\Guna.UI WinForms\.net 4.0\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2">
+      <HintPath>..\..\..\..\gunaui\_Getintopc.com_Guna_UI_Framework_Ultimate_v2.0.0.1\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna.UI-Framework-Lib-master\Guna.UI2 WinForms\.net 4.0\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\..\Windows\assembly\GAC_MSIL\Microsoft.Office.Interop.Excel\15.0.0.0__71e9bce111e9429c\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="mysql.data">
+      <HintPath>..\..\..\Dropbox\SwifectShare\Peripherals\mysql4.5\mysql.data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="aboutus.Designer.vb">
+      <DependentUpon>aboutus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="aboutus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CashDrawer.vb" />
+    <Compile Include="config\changepass.Designer.vb">
+      <DependentUpon>changepass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="config\changepass.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="config\cprinterconfig.Designer.vb">
+      <DependentUpon>cprinterconfig.vb</DependentUpon>
+    </Compile>
+    <Compile Include="config\cprinterconfig.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="config\caccount.designer.vb">
+      <DependentUpon>caccount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="config\caccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="config\creminder.designer.vb">
+      <DependentUpon>creminder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="config\creminder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="config\csetting.designer.vb">
+      <DependentUpon>csetting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="config\csetting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="config\sysconfig.Designer.vb">
+      <DependentUpon>sysconfig.vb</DependentUpon>
+    </Compile>
+    <Compile Include="config\sysconfig.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="config\usr.designer.vb">
+      <DependentUpon>usr.vb</DependentUpon>
+    </Compile>
+    <Compile Include="config\usr.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="config\usrpriv.designer.vb">
+      <DependentUpon>usrpriv.vb</DependentUpon>
+    </Compile>
+    <Compile Include="config\usrpriv.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="history\hmstr.designer.vb">
+      <DependentUpon>hmstr.vb</DependentUpon>
+    </Compile>
+    <Compile Include="history\hmstr.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="history\huserlog.designer.vb">
+      <DependentUpon>huserlog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="history\huserlog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masterdata\mbyjbtn.designer.vb">
+      <DependentUpon>mbyjbtn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="masterdata\mbyjbtn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masterdata\mimbalanpns.designer.vb">
+      <DependentUpon>mimbalanpns.vb</DependentUpon>
+    </Compile>
+    <Compile Include="masterdata\mimbalanpns.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masterdata\mpasal23.Designer.vb">
+      <DependentUpon>mpasal23.vb</DependentUpon>
+    </Compile>
+    <Compile Include="masterdata\mpasal23.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masterdata\mpensiun.designer.vb">
+      <DependentUpon>mpensiun.vb</DependentUpon>
+    </Compile>
+    <Compile Include="masterdata\mpensiun.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masterdata\mpasal21.designer.vb">
+      <DependentUpon>mpasal21.vb</DependentUpon>
+    </Compile>
+    <Compile Include="masterdata\mpasal21.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masterdata\mpasal17.designer.vb">
+      <DependentUpon>mpasal17.vb</DependentUpon>
+    </Compile>
+    <Compile Include="masterdata\mpasal17.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masterdata\mssp.designer.vb">
+      <DependentUpon>mssp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="masterdata\mssp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masterdata\mupahharian.designer.vb">
+      <DependentUpon>mupahharian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="masterdata\mupahharian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masterdata\mptkp.designer.vb">
+      <DependentUpon>mptkp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="masterdata\mptkp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masterdata\mobjkpjk.designer.vb">
+      <DependentUpon>mobjkpjk.vb</DependentUpon>
+    </Compile>
+    <Compile Include="masterdata\mobjkpjk.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masterdata\mngara.designer.vb">
+      <DependentUpon>mngara.vb</DependentUpon>
+    </Compile>
+    <Compile Include="masterdata\mngara.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masterdata\msetmasa.designer.vb">
+      <DependentUpon>msetmasa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="masterdata\msetmasa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masterdata\mkpp.designer.vb">
+      <DependentUpon>mkpp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="masterdata\mkpp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masterdata\mlwntransaksi.designer.vb">
+      <DependentUpon>mlwntransaksi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="masterdata\mlwntransaksi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masterdata\mprofile.designer.vb">
+      <DependentUpon>mprofile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="masterdata\mprofile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masterdata\pp21\mpenghasil.designer.vb">
+      <DependentUpon>mpenghasil.vb</DependentUpon>
+    </Compile>
+    <Compile Include="masterdata\pp21\mpenghasil.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masterdata\pp21\mpenghasila2.designer.vb">
+      <DependentUpon>mpenghasila2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="masterdata\pp21\mpenghasila2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masterdata\pp21\mpenghasila1.designer.vb">
+      <DependentUpon>mpenghasila1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="masterdata\pp21\mpenghasila1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\masterdata\mbyjbtn_baru.Designer.vb">
+      <DependentUpon>mbyjbtn_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\masterdata\mbyjbtn_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\masterdata\mimbalanpns_baru.Designer.vb">
+      <DependentUpon>mimbalanpns_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\masterdata\mimbalanpns_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\masterdata\mkpp_baru.Designer.vb">
+      <DependentUpon>mkpp_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\masterdata\mkpp_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\masterdata\mlwntransaksi_baru.Designer.vb">
+      <DependentUpon>mlwntransaksi_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\masterdata\mlwntransaksi_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\masterdata\mobjkpjk_baru.Designer.vb">
+      <DependentUpon>mobjkpjk_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\masterdata\mobjkpjk_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\masterdata\mpasal17_baru.Designer.vb">
+      <DependentUpon>mpasal17_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\masterdata\mpasal17_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\masterdata\mpasal21_baru.Designer.vb">
+      <DependentUpon>mpasal21_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\masterdata\mpasal21_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\masterdata\mpasal23_baru.Designer.vb">
+      <DependentUpon>mpasal23_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\masterdata\mpasal23_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\masterdata\mpasal42_baru.Designer.vb">
+      <DependentUpon>mpasal42_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\masterdata\mpasal42_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\masterdata\mpensiun_baru.Designer.vb">
+      <DependentUpon>mpensiun_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\masterdata\mpensiun_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\masterdata\mprofile_baru.Designer.vb">
+      <DependentUpon>mprofile_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\masterdata\mprofile_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\masterdata\mptkp_baru.Designer.vb">
+      <DependentUpon>mptkp_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\masterdata\mptkp_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\masterdata\msetmasa_baru.Designer.vb">
+      <DependentUpon>msetmasa_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\masterdata\msetmasa_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\masterdata\mssp_baru.Designer.vb">
+      <DependentUpon>mssp_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\masterdata\mssp_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\masterdata\mupahharian_baru.Designer.vb">
+      <DependentUpon>mupahharian_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\masterdata\mupahharian_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\masterdata\PPh21\mpenghasila1_baru.Designer.vb">
+      <DependentUpon>mpenghasila1_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\masterdata\PPh21\mpenghasila1_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\masterdata\PPh21\mpenghasila2_baru.Designer.vb">
+      <DependentUpon>mpenghasila2_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\masterdata\PPh21\mpenghasila2_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\masterdata\PPh21\mpenghasil_baru.Designer.vb">
+      <DependentUpon>mpenghasil_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\masterdata\PPh21\mpenghasil_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\menubaru.Designer.vb">
+      <DependentUpon>menubaru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\menubaru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menuutama.designer.vb">
+      <DependentUpon>menuutama.vb</DependentUpon>
+    </Compile>
+    <Compile Include="menuutama.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modterbilang.vb" />
+    <Compile Include="new_interface\masterdata\mnegara_baru.Designer.vb">
+      <DependentUpon>mnegara_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\masterdata\mnegara_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\menu\master.Designer.vb">
+      <DependentUpon>master.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\menu\master.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\menu\menubaru_v2.Designer.vb">
+      <DependentUpon>menubaru_v2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\menu\menubaru_v2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph21\ta1_baru.Designer.vb">
+      <DependentUpon>ta1_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph21\ta1_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph21\tbuktiptgfinal_baru.Designer.vb">
+      <DependentUpon>tbuktiptgfinal_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph21\tbuktiptgfinal_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph21\tcsv21_baru.Designer.vb">
+      <DependentUpon>tcsv21_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph21\tcsv21_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph21\tdaftarpemotongpjkbulan_baru.Designer.vb">
+      <DependentUpon>tdaftarpemotongpjkbulan_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph21\tdaftarpemotongpjkbulan_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph21\tdaftarpemotongpjktahun_baru.Designer.vb">
+      <DependentUpon>tdaftarpemotongpjktahun_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph21\tdaftarpemotongpjktahun_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph21\tinputdatapemotongpjk_baru.Designer.vb">
+      <DependentUpon>tinputdatapemotongpjk_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph21\tinputdatapemotongpjk_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph21\tinputssppbk21_baru.Designer.vb">
+      <DependentUpon>tinputssppbk21_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph21\tinputssppbk21_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph21\tpph21_baru.Designer.vb">
+      <DependentUpon>tpph21_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph21\tpph21_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph21\tsptmasa21induk_baru.Designer.vb">
+      <DependentUpon>tsptmasa21induk_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph21\tsptmasa21induk_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph23\tcsv23_baru.Designer.vb">
+      <DependentUpon>tcsv23_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph23\tcsv23_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph23\tinputssppbk23_baru.Designer.vb">
+      <DependentUpon>tinputssppbk23_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph23\tinputssppbk23_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph23\tpph23_baru.Designer.vb">
+      <DependentUpon>tpph23_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph23\tpph23_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph23\tsptmasa23_baru.Designer.vb">
+      <DependentUpon>tsptmasa23_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph23\tsptmasa23_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph42\tbktbuku42_baru.Designer.vb">
+      <DependentUpon>tbktbuku42_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph42\tbktbuku42_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph42\tcsv42_baru.Designer.vb">
+      <DependentUpon>tcsv42_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph42\tcsv42_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph42\tdaftarbiaya_baru.Designer.vb">
+      <DependentUpon>tdaftarbiaya_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph42\tdaftarbiaya_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph42\tdaftarpph42bunga_baru.Designer.vb">
+      <DependentUpon>tdaftarpph42bunga_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph42\tdaftarpph42bunga_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph42\tinputssppbk42_baru.Designer.vb">
+      <DependentUpon>tinputssppbk42_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph42\tinputssppbk42_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph42\tpph42_baru.Designer.vb">
+      <DependentUpon>tpph42_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph42\tpph42_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph42\tsptmasapphfinal42_baru.Designer.vb">
+      <DependentUpon>tsptmasapphfinal42_baru.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface\transaction\pph42\tsptmasapphfinal42_baru.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface_v2\masterdata\mbyjbtn_baru2.Designer.vb">
+      <DependentUpon>mbyjbtn_baru2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface_v2\masterdata\mbyjbtn_baru2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new_interface_v2\transaction\pph23\tpph23_baru2.Designer.vb">
+      <DependentUpon>tpph23_baru2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="new_interface_v2\transaction\pph23\tpph23_baru2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="peripheral\paytMthd.Designer.vb">
+      <DependentUpon>paytMthd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="peripheral\paytMthd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="peripheral\changePrice.Designer.vb">
+      <DependentUpon>changePrice.vb</DependentUpon>
+    </Compile>
+    <Compile Include="peripheral\changePrice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="peripheral\pinAuth.Designer.vb">
+      <DependentUpon>pinAuth.vb</DependentUpon>
+    </Compile>
+    <Compile Include="peripheral\pinAuth.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mdlprint.vb" />
+    <Compile Include="modsistem.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="navprogram.designer.vb">
+      <DependentUpon>navprogram.vb</DependentUpon>
+    </Compile>
+    <Compile Include="navprogram.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="peripheral\login.Designer.vb">
+      <DependentUpon>login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="peripheral\login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="peripheral\search2.Designer.vb">
+      <DependentUpon>search2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="peripheral\search2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="peripheral\search.Designer.vb">
+      <DependentUpon>search.vb</DependentUpon>
+    </Compile>
+    <Compile Include="peripheral\search.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RawPOSPrinter.vb" />
+    <Compile Include="report\print\rptpurlastprice.vb">
+      <DependentUpon>rptpurlastprice.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="report\rprt.designer.vb">
+      <DependentUpon>rprt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="report\rprt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transaction\pph21\ta1.designer.vb">
+      <DependentUpon>ta1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaction\pph21\ta1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transaction\pph21\tcsv21.designer.vb">
+      <DependentUpon>tcsv21.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaction\pph21\tcsv21.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transaction\pph23\tcsv23.designer.vb">
+      <DependentUpon>tcsv23.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaction\pph23\tcsv23.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transaction\pph42\tcsv42.designer.vb">
+      <DependentUpon>tcsv42.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaction\pph42\tcsv42.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transaction\print\IHSAN NEW\1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="transaction\print\IHSAN NEW\2.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="transaction\print\IHSAN NEW\3.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>3.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="transaction\print\IHSAN NEW\4.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>4.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="transaction\print\IHSAN NEW\5.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>5.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="transaction\print\IHSAN NEW\rpttsptmasapphfinal421.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpttsptmasapphfinal42.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="transaction\print\IHSAN NEW\7.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>7.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="transaction\print\IHSAN NEW\Daftar Biaya.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Daftar Biaya.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="transaction\print\Formulir1721-1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Formulir1721-1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="transaction\print\Formulir1721-2.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Formulir1721-2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="transaction\print\Formulir1721-3.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Formulir1721-3.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="transaction\print\Formulir1721-4.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Formulir1721-4.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="transaction\print\Formulir1721-5.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Formulir1721-5.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="transaction\print\Formulir1721-7.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Formulir1721-7.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="transaction\print\Formulir1721-A1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Formulir1721-A1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="transaction\print\Formulir1721-A2.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Formulir1721-A2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="transaction\print\Hal1dan2.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Hal1dan2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="transaction\print\IHSAN NEW\PPh 21 satubulan.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PPh 21 satubulan.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="transaction\print\IHSAN NEW\PPh 21 satutahun.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PPh 21 satutahun.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="transaction\pph42\tbktbuku42.Designer.vb">
+      <DependentUpon>tbktbuku42.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaction\pph42\tbktbuku42.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transaction\pph42\tdaftarbiaya.Designer.vb">
+      <DependentUpon>tdaftarbiaya.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaction\pph42\tdaftarbiaya.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transaction\pph21\tdaftarpemotongpjkbulan.Designer.vb">
+      <DependentUpon>tdaftarpemotongpjkbulan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaction\pph21\tdaftarpemotongpjkbulan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transaction\pph21\tdaftarpemotongpjktahun.Designer.vb">
+      <DependentUpon>tdaftarpemotongpjktahun.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaction\pph21\tdaftarpemotongpjktahun.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transaction\pph21\tbuktiptgfinal.designer.vb">
+      <DependentUpon>tbuktiptgfinal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaction\pph21\tbuktiptgfinal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transaction\pph21\tbuktiptgtdkfinal.designer.vb">
+      <DependentUpon>tbuktiptgtdkfinal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaction\pph21\tbuktiptgtdkfinal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transaction\pph42\tdaftarpph42bunga.designer.vb">
+      <DependentUpon>tdaftarpph42bunga.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaction\pph42\tdaftarpph42bunga.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transaction\pph21\tinputdatapemotongpjk.designer.vb">
+      <DependentUpon>tinputdatapemotongpjk.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaction\pph21\tinputdatapemotongpjk.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transaction\pph21\tinputssppbk21.designer.vb">
+      <DependentUpon>tinputssppbk21.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaction\pph21\tinputssppbk21.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transaction\pph23\tinputssppbk23.Designer.vb">
+      <DependentUpon>tinputssppbk23.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaction\pph23\tinputssppbk23.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transaction\pph42\tinputssppbk42.Designer.vb">
+      <DependentUpon>tinputssppbk42.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaction\pph42\tinputssppbk42.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transaction\pph21\tpph21.designer.vb">
+      <DependentUpon>tpph21.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaction\pph21\tpph21.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transaction\pph23\tpph23.designer.vb">
+      <DependentUpon>tpph23.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaction\pph23\tpph23.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transaction\pph42\tpph42.designer.vb">
+      <DependentUpon>tpph42.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaction\pph42\tpph42.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="masterdata\mpasal42.designer.vb">
+      <DependentUpon>mpasal42.vb</DependentUpon>
+    </Compile>
+    <Compile Include="masterdata\mpasal42.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transaction\pph21\tsptmasa21induk.Designer.vb">
+      <DependentUpon>tsptmasa21induk.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaction\pph21\tsptmasa21induk.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transaction\pph23\tsptmasa23.Designer.vb">
+      <DependentUpon>tsptmasa23.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaction\pph23\tsptmasa23.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transaction\pph42\tsptmasapphfinal42.Designer.vb">
+      <DependentUpon>tsptmasapphfinal42.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaction\pph42\tsptmasapphfinal42.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="uploaddata.Designer.vb">
+      <DependentUpon>uploaddata.vb</DependentUpon>
+    </Compile>
+    <Compile Include="uploaddata.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="aboutus.resx">
+      <DependentUpon>aboutus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="config\changepass.resx">
+      <DependentUpon>changepass.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="config\cprinterconfig.resx">
+      <DependentUpon>cprinterconfig.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="config\caccount.resx">
+      <DependentUpon>caccount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="config\creminder.resx">
+      <DependentUpon>creminder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="config\csetting.resx">
+      <DependentUpon>csetting.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="config\sysconfig.resx">
+      <DependentUpon>sysconfig.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="config\usr.resx">
+      <DependentUpon>usr.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="config\usrpriv.resx">
+      <DependentUpon>usrpriv.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="history\hmstr.resx">
+      <DependentUpon>hmstr.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="history\huserlog.resx">
+      <DependentUpon>huserlog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="masterdata\mbyjbtn.resx">
+      <DependentUpon>mbyjbtn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="masterdata\mimbalanpns.resx">
+      <DependentUpon>mimbalanpns.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="masterdata\mpasal23.resx">
+      <DependentUpon>mpasal23.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="masterdata\mpensiun.resx">
+      <DependentUpon>mpensiun.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="masterdata\mpasal21.resx">
+      <DependentUpon>mpasal21.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="masterdata\mpasal17.resx">
+      <DependentUpon>mpasal17.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="masterdata\mssp.resx">
+      <DependentUpon>mssp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="masterdata\mupahharian.resx">
+      <DependentUpon>mupahharian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="masterdata\mptkp.resx">
+      <DependentUpon>mptkp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="masterdata\mobjkpjk.resx">
+      <DependentUpon>mobjkpjk.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="masterdata\mngara.resx">
+      <DependentUpon>mngara.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="masterdata\msetmasa.resx">
+      <DependentUpon>msetmasa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="masterdata\mkpp.resx">
+      <DependentUpon>mkpp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="masterdata\mlwntransaksi.resx">
+      <DependentUpon>mlwntransaksi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="masterdata\mprofile.resx">
+      <DependentUpon>mprofile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="masterdata\pp21\mpenghasil.resx">
+      <DependentUpon>mpenghasil.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="masterdata\pp21\mpenghasila2.resx">
+      <DependentUpon>mpenghasila2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="masterdata\pp21\mpenghasila1.resx">
+      <DependentUpon>mpenghasila1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\masterdata\mbyjbtn_baru.resx">
+      <DependentUpon>mbyjbtn_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\masterdata\mimbalanpns_baru.resx">
+      <DependentUpon>mimbalanpns_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\masterdata\mkpp_baru.resx">
+      <DependentUpon>mkpp_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\masterdata\mlwntransaksi_baru.resx">
+      <DependentUpon>mlwntransaksi_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\masterdata\mobjkpjk_baru.resx">
+      <DependentUpon>mobjkpjk_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\masterdata\mpasal17_baru.resx">
+      <DependentUpon>mpasal17_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\masterdata\mpasal21_baru.resx">
+      <DependentUpon>mpasal21_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\masterdata\mpasal23_baru.resx">
+      <DependentUpon>mpasal23_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\masterdata\mpasal42_baru.resx">
+      <DependentUpon>mpasal42_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\masterdata\mpensiun_baru.resx">
+      <DependentUpon>mpensiun_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\masterdata\mprofile_baru.resx">
+      <DependentUpon>mprofile_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\masterdata\mptkp_baru.resx">
+      <DependentUpon>mptkp_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\masterdata\msetmasa_baru.resx">
+      <DependentUpon>msetmasa_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\masterdata\mssp_baru.resx">
+      <DependentUpon>mssp_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\masterdata\mupahharian_baru.resx">
+      <DependentUpon>mupahharian_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\masterdata\PPh21\mpenghasila1_baru.resx">
+      <DependentUpon>mpenghasila1_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\masterdata\PPh21\mpenghasila2_baru.resx">
+      <DependentUpon>mpenghasila2_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\masterdata\PPh21\mpenghasil_baru.resx">
+      <DependentUpon>mpenghasil_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\menubaru.resx">
+      <DependentUpon>menubaru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menuutama.resx">
+      <DependentUpon>menuutama.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="new_interface\masterdata\mnegara_baru.resx">
+      <DependentUpon>mnegara_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\menu\master.resx">
+      <DependentUpon>master.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\menu\menubaru_v2.resx">
+      <DependentUpon>menubaru_v2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\transaction\pph21\ta1_baru.resx">
+      <DependentUpon>ta1_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\transaction\pph21\tbuktiptgfinal_baru.resx">
+      <DependentUpon>tbuktiptgfinal_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\transaction\pph21\tcsv21_baru.resx">
+      <DependentUpon>tcsv21_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\transaction\pph21\tdaftarpemotongpjkbulan_baru.resx">
+      <DependentUpon>tdaftarpemotongpjkbulan_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\transaction\pph21\tdaftarpemotongpjktahun_baru.resx">
+      <DependentUpon>tdaftarpemotongpjktahun_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\transaction\pph21\tinputdatapemotongpjk_baru.resx">
+      <DependentUpon>tinputdatapemotongpjk_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\transaction\pph21\tinputssppbk21_baru.resx">
+      <DependentUpon>tinputssppbk21_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\transaction\pph21\tpph21_baru.resx">
+      <DependentUpon>tpph21_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\transaction\pph21\tsptmasa21induk_baru.resx">
+      <DependentUpon>tsptmasa21induk_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\transaction\pph23\tcsv23_baru.resx">
+      <DependentUpon>tcsv23_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\transaction\pph23\tinputssppbk23_baru.resx">
+      <DependentUpon>tinputssppbk23_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\transaction\pph23\tpph23_baru.resx">
+      <DependentUpon>tpph23_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\transaction\pph23\tsptmasa23_baru.resx">
+      <DependentUpon>tsptmasa23_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\transaction\pph42\tbktbuku42_baru.resx">
+      <DependentUpon>tbktbuku42_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\transaction\pph42\tcsv42_baru.resx">
+      <DependentUpon>tcsv42_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\transaction\pph42\tdaftarbiaya_baru.resx">
+      <DependentUpon>tdaftarbiaya_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\transaction\pph42\tdaftarpph42bunga_baru.resx">
+      <DependentUpon>tdaftarpph42bunga_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\transaction\pph42\tinputssppbk42_baru.resx">
+      <DependentUpon>tinputssppbk42_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\transaction\pph42\tpph42_baru.resx">
+      <DependentUpon>tpph42_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface\transaction\pph42\tsptmasapphfinal42_baru.resx">
+      <DependentUpon>tsptmasapphfinal42_baru.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface_v2\masterdata\mbyjbtn_baru2.resx">
+      <DependentUpon>mbyjbtn_baru2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new_interface_v2\transaction\pph23\tpph23_baru2.resx">
+      <DependentUpon>tpph23_baru2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="peripheral\paytMthd.resx">
+      <DependentUpon>paytMthd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="peripheral\changePrice.resx">
+      <DependentUpon>changePrice.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="peripheral\pinAuth.resx">
+      <DependentUpon>pinAuth.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="navprogram.resx">
+      <DependentUpon>navprogram.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="peripheral\login.resx">
+      <DependentUpon>login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="peripheral\search2.resx">
+      <DependentUpon>search2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="peripheral\search.resx">
+      <DependentUpon>search.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\print\rptpurlastprice.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptpurlastprice.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report\rprt.resx">
+      <DependentUpon>rprt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\pph21\ta1.resx">
+      <DependentUpon>ta1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\pph21\tcsv21.resx">
+      <DependentUpon>tcsv21.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\pph23\tcsv23.resx">
+      <DependentUpon>tcsv23.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\pph42\tcsv42.resx">
+      <DependentUpon>tcsv42.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\print\IHSAN NEW\1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\print\IHSAN NEW\2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\print\IHSAN NEW\3.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>3.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\print\IHSAN NEW\4.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>4.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\print\IHSAN NEW\5.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>5.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\print\IHSAN NEW\rpttsptmasapphfinal42.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpttsptmasapphfinal421.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\print\IHSAN NEW\7.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>7.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\print\IHSAN NEW\Daftar Biaya.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Daftar Biaya.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\print\Formulir1721-1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Formulir1721-1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\print\Formulir1721-2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Formulir1721-2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\print\Formulir1721-3.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Formulir1721-3.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\print\Formulir1721-4.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Formulir1721-4.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\print\Formulir1721-5.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Formulir1721-5.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\print\Formulir1721-7.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Formulir1721-7.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\print\Formulir1721-A1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Formulir1721-A1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\print\Formulir1721-A2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Formulir1721-A2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\print\Hal1dan2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Hal1dan2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\print\IHSAN NEW\PPh 21 satubulan.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PPh 21 satubulan.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\print\IHSAN NEW\PPh 21 satutahun.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PPh 21 satutahun.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\pph42\tbktbuku42.resx">
+      <DependentUpon>tbktbuku42.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\pph42\tdaftarbiaya.resx">
+      <DependentUpon>tdaftarbiaya.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\pph21\tdaftarpemotongpjkbulan.resx">
+      <DependentUpon>tdaftarpemotongpjkbulan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\pph21\tdaftarpemotongpjktahun.resx">
+      <DependentUpon>tdaftarpemotongpjktahun.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\pph21\tbuktiptgfinal.resx">
+      <DependentUpon>tbuktiptgfinal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\pph21\tbuktiptgtdkfinal.resx">
+      <DependentUpon>tbuktiptgtdkfinal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\pph42\tdaftarpph42bunga.resx">
+      <DependentUpon>tdaftarpph42bunga.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\pph21\tinputdatapemotongpjk.resx">
+      <DependentUpon>tinputdatapemotongpjk.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\pph21\tinputssppbk21.resx">
+      <DependentUpon>tinputssppbk21.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\pph23\tinputssppbk23.resx">
+      <DependentUpon>tinputssppbk23.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\pph42\tinputssppbk42.resx">
+      <DependentUpon>tinputssppbk42.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\pph21\tpph21.resx">
+      <DependentUpon>tpph21.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\pph23\tpph23.resx">
+      <DependentUpon>tpph23.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\pph42\tpph42.resx">
+      <DependentUpon>tpph42.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="masterdata\mpasal42.resx">
+      <DependentUpon>mpasal42.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\pph21\tsptmasa21induk.resx">
+      <DependentUpon>tsptmasa21induk.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\pph23\tsptmasa23.resx">
+      <DependentUpon>tsptmasa23.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction\pph42\tsptmasapphfinal42.resx">
+      <DependentUpon>tsptmasapphfinal42.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="uploaddata.resx">
+      <DependentUpon>uploaddata.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="packages.config" />
+    <None Include="uninstall.bat" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel1">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="img\GALAXY.png" />
+    <Content Include="img\logoswisy.ico" />
+    <Content Include="img\system.ico" />
+    <Content Include="img\uninstall.ico" />
+    <None Include="Resources\background seamless.png" />
+    <None Include="Resources\Yellow And Black With White Details Geometric Wallpaper %287%29.png" />
+    <None Include="Resources\Yellow And Black With White Details Geometric Wallpaper %286%29.png" />
+    <None Include="Resources\search_512px.png" />
+    <None Include="Resources\Logo DJP - Sekunder.png" />
+    <None Include="Resources\5315093.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

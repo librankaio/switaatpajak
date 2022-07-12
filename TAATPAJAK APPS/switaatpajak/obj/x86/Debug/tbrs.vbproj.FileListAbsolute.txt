@@ -1,0 +1,882 @@
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\bin\Debug\palemfurniture.exe.config
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\bin\Debug\palemfurniture.exe
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\bin\Debug\palemfurniture.pdb
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\bin\Debug\palemfurniture.xml
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\bin\Debug\clopalem.dll
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\bin\Debug\clspalem.dll
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\bin\Debug\CrystalDecisions.Shared.dll
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\bin\Debug\FlashControlV71.dll
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\bin\Debug\mysql.data.dll
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\bin\Debug\ShockwaveFlashObjects.dll
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\bin\Debug\stdole.dll
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\bin\Debug\clopalem.pdb
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\bin\Debug\clopalem.xml
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\bin\Debug\clspalem.pdb
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\bin\Debug\clspalem.xml
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\tbrs.vbprojResolveAssemblyReference.cache
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.aboutus.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.changepass.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.cprinterconfig.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.sysconfig.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.usr.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.usrpriv.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.macctp.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.msales.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.mitm.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.mexptp.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.mitmtp.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.mcustgrp.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.mpaytp.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.msupp.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.mcust.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.mbranch.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.menuutama.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.Resources.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.login.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.choosebranch.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.search.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.rcatchart.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.rdailysales.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.rexpensedetail.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.rrps.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.rrpc.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.rpurdetail.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.rsalesaging.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.rpurchaseaging.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.rptstockperlot.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.rpayable.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.rsalesperperson.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.routletperform.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.rpurchase.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.rsalperproduct.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.rreceivable.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.rtopcust.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.rbestsell.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.rsaldetail.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.rrekeningdetail.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.tpopjk2.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.tpopjk.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.tretppjk.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.tretpjk.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.tsalpjk.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.rprt.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.slds.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.slda.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.tpays.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.tretp.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.ttgh.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.trec.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.tpo.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.tret.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.tsalpay2.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.tsalpay.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.tpay.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.topay.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.tadj.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.tsales.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.uploaddata.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.rptspermbp.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.rptstockdetail.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.rptstockoverview.resources
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\tbrs.vbproj.GenerateResource.Cache
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.exe
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.xml
+C:\Work\ON-GOING PROJECTS\TBRS\palemfurniture\obj\x86\Debug\palemfurniture.pdb
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.vbproj.GenerateResource.Cache
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\bin\Debug\clopalem.dll
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\bin\Debug\clspalem.dll
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\bin\Debug\CrystalDecisions.Shared.dll
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\bin\Debug\FlashControlV71.dll
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\bin\Debug\mysql.data.dll
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\bin\Debug\ShockwaveFlashObjects.dll
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\bin\Debug\stdole.dll
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\bin\Debug\clopalem.pdb
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\bin\Debug\clopalem.xml
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\bin\Debug\clspalem.pdb
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\bin\Debug\clspalem.xml
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\bin\Debug\tbrs.exe.config
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\bin\Debug\tbrs.exe
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\bin\Debug\tbrs.pdb
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\bin\Debug\tbrs.xml
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.aboutus.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.changepass.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.cprinterconfig.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.csetting.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.sysconfig.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.usr.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.usrpriv.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.masset.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.mcoa.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.mwhse.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.mship.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.muom.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.mterm.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.msupp.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.msales.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.mitm.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.mitmtp.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.mpaytp.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.mcust.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.menuutama.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.Resources.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.navprogram.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.login.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.search.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.rsalesaging.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.rpayable.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.rreceivable.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.rrekeningdetail.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.tpret.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.tret.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.tadj.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.tje.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.trf.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.tdo.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.rprt.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.tpv.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.tpy.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.tps.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.tpo.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.trec.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.tiv.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.tso.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.uploaddata.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.rptstockdetail.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.rptstockoverview.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.exe
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.xml
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.pdb
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.caccount.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.rpursupplier.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.rpurproduct.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.rsalproduct.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.rsalcustomer.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.rptsisaso.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.rpurchaseaging.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.rbestsellingproduct.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.rptsisapo.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.rlastprice.resources
+C:\Work\ON-GOING PROJECTS\TBRS\tbrs\obj\x86\Debug\tbrs.rpurlastprice.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\tbrs.exe.config
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\tbrs.exe
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\tbrs.pdb
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\tbrs.xml
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\clopalem.dll
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\clspalem.dll
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.Shared.dll
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.Web.dll
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\EpsonStatusAPI.dll
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\FlashControlV71.dll
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\mysql.data.dll
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CRVsPackageLib.dll
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\EnvDTE.dll
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\VSLangProj.dll
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\VsWebSite.Interop.dll
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\EnvDTE80.dll
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\ShockwaveFlashObjects.dll
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\stdole.dll
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\clopalem.pdb
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\clopalem.xml
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\clspalem.pdb
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\clspalem.xml
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.aboutus.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.changepass.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.cprinterconfig.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.caccount.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.creminder.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.csetting.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.sysconfig.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.usr.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.usrpriv.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.masset.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mcoa.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.pinAuth.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mprintlabel.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mprintbarcode.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mbrand.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mwhse.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mship.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.muom.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mterm.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.msupp.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.msales.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mitm.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mitmtp.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mpaytp.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mcust.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.menuutama.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.Resources.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.navprogram.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.login.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.search.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mitmpos.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mkategori.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.trpos.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tpos.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mtype.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mwarna.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptbs.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptgl.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptlpt.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptpl.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rpttjee.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rpurlastprice.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptsisaso.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rpurchaseaging.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rlastprice.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rpursupplier.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rpurproduct.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rbestsellingproduct.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptlst.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rsalsalespos.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rsalsales.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rsalproduct.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rsalesaging.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rpayable.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rreceivable.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rsalcustomer.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rrekeningdetail.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptsisapo.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mbom.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tifp.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tpr.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.trfp.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tsaldoinv.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tsaldosupp.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tsaldocust.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tclosing2.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tje2.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tpret.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tret.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tadj.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tje.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.trf.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tdo.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rprt.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tpv.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tpy.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tps.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tpo.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.trec.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tiv.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mpromo.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tsrv.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tso.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.uploaddata.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptstockdetail.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptstockoverview.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.vbproj.GenerateResource.Cache
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.exe
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.xml
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.pdb
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.topay.resources
+C:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptstocksummary.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\tbrs.exe.config
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.exe
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.xml
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.pdb
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\tbrs.exe
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\tbrs.pdb
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\tbrs.xml
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\clopalem.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\clspalem.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\FlashControlV71.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\mysql.data.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CRVsPackageLib.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\EnvDTE.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\VSLangProj.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\VsWebSite.Interop.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\EnvDTE80.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\stdole.dll
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\clopalem.pdb
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\clopalem.xml
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\clspalem.pdb
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\clspalem.xml
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\EnvDTE.xml
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\VSLangProj.xml
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\EnvDTE80.xml
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.aboutus.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.changepass.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.cprinterconfig.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.caccount.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.creminder.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.csetting.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.sysconfig.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.usr.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.usrpriv.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.masset.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mcoa.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.pinAuth.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mprintlabel.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mprintbarcode.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mbrand.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mwhse.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mship.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.muom.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mterm.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.msupp.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.msales.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mitm.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mitmtp.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mpaytp.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mcust.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.menuutama.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.Resources.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.navprogram.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.login.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.search.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mitmpos.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mkategori.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.trpos.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tpos.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mtype.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mwarna.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptbs.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptgl.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptlpt.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptpl.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptstocksummary.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rpttjee.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rpurlastprice.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptsisaso.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rpurchaseaging.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rlastprice.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rpursupplier.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rpurproduct.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rbestsellingproduct.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptlst.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rsalsalespos.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rsalsales.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rsalproduct.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rsalesaging.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rpayable.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rreceivable.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rsalcustomer.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rrekeningdetail.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptsisapo.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mbom.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tifp.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tpr.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.trfp.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tsaldoinv.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tsaldosupp.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tsaldocust.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tclosing2.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tje2.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.topay.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tpret.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tret.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tadj.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tje.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.trf.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tdo.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rprt.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tpv.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tpy.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tps.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tpo.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.trec.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tiv.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mpromo.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tsrv.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tso.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.uploaddata.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptstockdetail.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptstockoverview.resources
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.vbproj.GenerateResource.Cache
+C:\Users\HANS-PC\OneDrive\Documents\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.vbprojResolveAssemblyReference.cache
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\tbrs.exe.config
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.exe
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.xml
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.pdb
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\tbrs.exe
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\tbrs.pdb
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\tbrs.xml
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\clopalem.dll
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\clspalem.dll
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.Shared.dll
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.VSDesigner.dll
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.Web.dll
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\FlashControlV71.dll
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\mysql.data.dll
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CRVsPackageLib.dll
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\EnvDTE.dll
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\VSLangProj.dll
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\VsWebSite.Interop.dll
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\EnvDTE80.dll
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\ShockwaveFlashObjects.dll
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\stdole.dll
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\clopalem.pdb
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\clopalem.xml
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\clspalem.pdb
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\clspalem.xml
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\EnvDTE.xml
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\VSLangProj.xml
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\bin\Debug\EnvDTE80.xml
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.aboutus.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.changepass.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.cprinterconfig.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.caccount.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.creminder.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.csetting.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.sysconfig.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.usr.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.usrpriv.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.masset.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mcoa.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.pinAuth.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mprintlabel.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mprintbarcode.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mbrand.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mwhse.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mship.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.muom.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mterm.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.msupp.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.msales.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mitm.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mitmtp.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mpaytp.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mcust.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.menuutama.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.Resources.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.navprogram.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.login.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.search.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mitmpos.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mkategori.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.trpos.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tpos.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mtype.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mwarna.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptbs.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptgl.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptlpt.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptpl.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptstocksummary.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rpttjee.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rpurlastprice.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptsisaso.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rpurchaseaging.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rlastprice.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rpursupplier.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rpurproduct.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rbestsellingproduct.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptlst.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rsalsalespos.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rsalsales.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rsalproduct.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rsalesaging.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rpayable.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rreceivable.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rsalcustomer.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rrekeningdetail.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptsisapo.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mbom.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tifp.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tpr.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.trfp.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tsaldoinv.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tsaldosupp.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tsaldocust.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tclosing2.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tje2.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.topay.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tpret.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tret.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tadj.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tje.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.trf.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tdo.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rprt.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tpv.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tpy.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tps.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tpo.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.trec.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tiv.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mpromo.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tsrv.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tso.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.uploaddata.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptstockdetail.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptstockoverview.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.vbproj.GenerateResource.Cache
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tabsent.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.roverviewsales.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tclosing.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tposNEW.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.changePrice.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.paytMthd.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tgi.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tgr.resources
+D:\Work\ON-GOING PROJECTS\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.vbprojResolveAssemblyReference.cache
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\tbrs.exe.config
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.exe
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.xml
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.pdb
+C:\Users\Swifect\Dropbox\RODA SELATAN\tbrs\bin\Debug\tbrs.exe.config
+C:\Users\Swifect\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.exe
+C:\Users\Swifect\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.xml
+C:\Users\Swifect\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.pdb
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\tbrs.exe
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\tbrs.pdb
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\tbrs.xml
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\clopalem.dll
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\clspalem.dll
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.VSDesigner.dll
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\FlashControlV71.dll
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\CRVsPackageLib.dll
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\EnvDTE.dll
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\VSLangProj.dll
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\VsWebSite.Interop.dll
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\EnvDTE80.dll
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\stdole.dll
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\clopalem.pdb
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\clopalem.xml
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\clspalem.pdb
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\clspalem.xml
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\EnvDTE.xml
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\VSLangProj.xml
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\bin\Debug\EnvDTE80.xml
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.aboutus.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.changepass.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.cprinterconfig.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.caccount.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.creminder.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.csetting.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.sysconfig.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.usr.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.usrpriv.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.masset.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mcoa.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.paytMthd.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.changePrice.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.pinAuth.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mprintlabel.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mprintbarcode.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mbrand.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mwhse.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mship.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.muom.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mterm.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.msupp.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.msales.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mitm.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mitmtp.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mpaytp.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mcust.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.menuutama.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.Resources.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.navprogram.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.login.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.search.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mitmpos.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mkategori.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tclosing.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tposNEW.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.trpos.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tpos.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mtype.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mwarna.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptbs.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptgl.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptlpt.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptpl.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptstocksummary.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rpttjee.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rpurlastprice.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptsisaso.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rpurchaseaging.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rlastprice.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rpursupplier.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rpurproduct.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rbestsellingproduct.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptlst.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.roverviewsales.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rsalsalespos.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rsalsales.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rsalproduct.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rsalesaging.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rpayable.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rreceivable.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rsalcustomer.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rrekeningdetail.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptsisapo.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tabsent.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mbom.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tifp.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tpr.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.trfp.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tsaldoinv.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tsaldosupp.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tsaldocust.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tgi.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tgr.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tclosing2.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tje2.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.topay.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tpret.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tret.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tadj.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tje.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.trf.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tdo.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rprt.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tpv.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tpy.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tps.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tpo.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.trec.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tiv.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mpromo.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tsrv.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tso.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.uploaddata.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptstockdetail.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptstockoverview.resources
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.vbproj.GenerateResource.Cache
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mpaytppos.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\bin\Debug\tbrs.exe.config
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.exe
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.xml
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.pdb
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\bin\Debug\tbrs.exe
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\bin\Debug\tbrs.pdb
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\bin\Debug\tbrs.xml
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\bin\Debug\clopalem.dll
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\bin\Debug\clspalem.dll
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\bin\Debug\EnvDTE.dll
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\bin\Debug\VSLangProj.dll
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\bin\Debug\VsWebSite.Interop.dll
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\bin\Debug\EnvDTE80.dll
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\bin\Debug\stdole.dll
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\bin\Debug\clopalem.pdb
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\bin\Debug\clopalem.xml
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\bin\Debug\clspalem.pdb
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\bin\Debug\clspalem.xml
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\bin\Debug\EnvDTE.xml
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\bin\Debug\VSLangProj.xml
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\bin\Debug\EnvDTE80.xml
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.aboutus.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.changepass.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.cprinterconfig.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.caccount.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.creminder.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.csetting.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.sysconfig.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.usr.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.usrpriv.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.masset.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mcoa.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.paytMthd.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.changePrice.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.pinAuth.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mprintlabel.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mprintbarcode.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mbrand.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mwhse.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mship.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.muom.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mterm.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.msupp.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.msales.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mitm.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mitmtp.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mpaytp.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mcust.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.menuutama.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.Resources.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.navprogram.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.login.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.search.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mitmpos.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mkategori.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mpaytppos.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tclosing.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tposNEW.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.trpos.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tpos.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mtype.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mwarna.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.roverviewsales.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptbs.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptgl.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptlpt.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptpl.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptstocksummary.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rpttjee.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rpurlastprice.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptsisaso.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rpurchaseaging.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rlastprice.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rpursupplier.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rpurproduct.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rbestsellingproduct.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptlst.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rsalsales.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rsalproduct.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rsalesaging.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rpayable.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rreceivable.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rsalcustomer.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rsalsalespos.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rrekeningdetail.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptsisapo.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tabsent.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mbom.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tifp.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tpr.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.trfp.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tsaldoinv.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tsaldosupp.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tsaldocust.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tgi.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tgr.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tclosing2.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tje2.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.topay.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tpret.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tret.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tadj.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tje.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.trf.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tdo.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rprt.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tpv.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tpy.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tps.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tpo.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.trec.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tiv.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.mpromo.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tsrv.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.tso.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.uploaddata.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptstockdetail.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptstockoverview.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.vbproj.GenerateResource.Cache
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptplYEAR.resources
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\bin\Debug\FlashControlV71.dll
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Michael\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.vbprojResolveAssemblyReference.cache
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.vbprojResolveAssemblyReference.cache
+C:\Users\HANS-PC\Dropbox\RODA SELATAN\tbrs\obj\x86\Debug\tbrs.rptplYEAR.resources
+C:\Users\HANS-PC\OneDrive\Desktop\TAATPAJAK\tbrs\bin\Debug\tbrs.exe.config
+C:\Users\HANS-PC\OneDrive\Desktop\TAATPAJAK\tbrs\obj\x86\Debug\tbrs.exe
+C:\Users\HANS-PC\OneDrive\Desktop\TAATPAJAK\tbrs\obj\x86\Debug\tbrs.xml
+C:\Users\HANS-PC\OneDrive\Desktop\TAATPAJAK\tbrs\obj\x86\Debug\tbrs.pdb
