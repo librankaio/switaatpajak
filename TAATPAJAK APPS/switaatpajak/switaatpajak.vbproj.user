@@ -3,8 +3,8 @@
   <PropertyGroup>
     <ReferencePath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\</ReferencePath>
     <ProjectView>ShowAllFiles</ProjectView>
-    <PublishUrlHistory />
-    <InstallUrlHistory />
+    <PublishUrlHistory>D:\Dekstop Test\tp\published\|publish\</PublishUrlHistory>
+    <InstallUrlHistory>https://raw.githubusercontent.com/librankaio/switaatpajak/main/published/</InstallUrlHistory>
     <SupportUrlHistory />
     <UpdateUrlHistory />
     <BootstrapperUrlHistory />

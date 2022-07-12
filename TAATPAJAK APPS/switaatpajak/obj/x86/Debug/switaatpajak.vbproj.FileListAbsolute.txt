@@ -2820,3 +2820,7 @@ D:\Dekstop Test\tp\TAATPAJAK APPS\switaatpajak\obj\x86\Debug\taatpajak.tsptmasap
 D:\Dekstop Test\tp\TAATPAJAK APPS\switaatpajak\obj\x86\Debug\taatpajak.uploaddata.resources
 D:\Dekstop Test\tp\TAATPAJAK APPS\switaatpajak\obj\x86\Debug\switaatpajak.vbproj.GenerateResource.Cache
 D:\Dekstop Test\tp\TAATPAJAK APPS\switaatpajak\obj\x86\Debug\taatpajak.exe.licenses
+D:\Dekstop Test\tp\TAATPAJAK APPS\switaatpajak\bin\Debug\taatpajak.exe.manifest
+D:\Dekstop Test\tp\TAATPAJAK APPS\switaatpajak\bin\Debug\taatpajak.application
+D:\Dekstop Test\tp\TAATPAJAK APPS\switaatpajak\obj\x86\Debug\taatpajak.exe.manifest
+D:\Dekstop Test\tp\TAATPAJAK APPS\switaatpajak\obj\x86\Debug\taatpajak.application
