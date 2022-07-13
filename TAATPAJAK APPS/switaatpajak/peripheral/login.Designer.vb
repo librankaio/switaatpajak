@@ -78,9 +78,9 @@ Partial Class login
         Me.Label2.AutoSize = True
         Me.Label2.Location = New System.Drawing.Point(32, 65)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(62, 13)
+        Me.Label2.Size = New System.Drawing.Size(58, 13)
         Me.Label2.TabIndex = 301
-        Me.Label2.Text = "User Name"
+        Me.Label2.Text = "Username"
         '
         'txtpass
         '
@@ -96,9 +96,9 @@ Partial Class login
         Me.Label1.AutoSize = True
         Me.Label1.Location = New System.Drawing.Point(33, 93)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(61, 13)
+        Me.Label1.Size = New System.Drawing.Size(51, 13)
         Me.Label1.TabIndex = 303
-        Me.Label1.Text = "Kata Sandi"
+        Me.Label1.Text = "Passprot"
         '
         'btnlogin
         '
